@@ -56,6 +56,7 @@ rec(5,5,'black')# This is for eyes of the robot
 t.goto(-65,138)
 rec(40,5,'black')#this is for the mouth of the robot
 
+t.hideturtle()
 ti.sleep(10)
 
 t.hideturtle()#this is for hiding the cursor
